@@ -1,2 +1,5 @@
 # ignore ALL .venv files
 *.venv
+__pycache__/api.cpython-312.pyc
+__pycache__/config.cpython-312.pyc
+__pycache__/model.cpython-312.pyc
